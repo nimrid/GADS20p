@@ -5,5 +5,6 @@ it reads from an api and displays top 20 learners in the Learning Leaders’ cat
 Submission of the project is done using/implementing google form in app using its api
 It follows the MVC architectural pattern and has a simple and sleek UI given to me by the [GADS team](https://drive.google.com/drive/folders/1l-huMnFzu0Lh_olBCzHgovsUCwbKouMb?usp=sharing) 
 and follows all the [instructions](https://docs.google.com/document/d/1KS003bk1a-2bOfUnhXvnOPoHfPuKtdkTAQ_APljjgWc/edit) given
+/n
 screenshots of the app
-<img src="https://user-images.githubusercontent.com/35783049/91920240-5e686f80-ecc0-11ea-93ff-a1412d6517a6.png" alt="splash screen" width="250" height="300"/>
+<img src="https://user-images.githubusercontent.com/35783049/91920240-5e686f80-ecc0-11ea-93ff-a1412d6517a6.png" alt="splash screen" width="250" height="500"/>
