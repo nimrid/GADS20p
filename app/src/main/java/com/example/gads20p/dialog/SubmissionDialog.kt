@@ -48,7 +48,7 @@ class SubmissionDialog(private val firstName : String, private val lastName : St
                 }
 
                 override fun onResponse(call: Call<Void>, response: Response<Void>) {
-                    Log.i(TAG, response.body().toString())
+                    Log.i(TAG, response.code().toString())
                     dismiss()
                     if (response.isSuccessful) {
                         SuccessDialog().show(manager, TAG)
